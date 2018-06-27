@@ -14,6 +14,3 @@ def _check(string1,string2):
 print len(string1), len(string2)
 _check(string1,string2)
 
-# cde
-# abc
-#   cde
